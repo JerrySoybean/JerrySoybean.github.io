@@ -217,6 +217,10 @@
   {% if sameaslinks != blank %}
     {% assign sameaslinks = sameaslinks | split: '' %}
   {% endif %}
+  {% if site.bilibili_url %}
+    {% capture link %}{{ site.bilibili_url }}{% endcapture %}
+    {% assign sameaslinks = sameaslinks | push: link %}
+  {% endif %}
 
   <script type="application/ld+json">
     {
