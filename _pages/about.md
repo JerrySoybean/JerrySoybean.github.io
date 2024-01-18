@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>CSE @ Georgia Tech</a> cnlichengrui@gatech.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CODA 1347</p>
+    <p>756 W Peachtree St NW</p>
+    <p>Atlanta, GA 30305, USA</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
