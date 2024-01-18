@@ -102,8 +102,8 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-bilibili_url: 
-zhihu_url: https://space.bilibili.com/52423603
+bilibili_url: https://space.bilibili.com/52423603
+zhihu_url: https://www.zhihu.com/people/li-cheng-rui-64
 
 contact_note: >
   Feel free to explore these sites about me.
