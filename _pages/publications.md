@@ -17,7 +17,7 @@ nav_order: 2
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024
 
 ## 2023
-[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model]()  
+[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://openreview.net/forum?id=AuXd54odxm)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
 *Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023  [**Spotlight: 3%**]
 
@@ -26,6 +26,6 @@ Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu
 *Transactions on Machine Learning Research (TMLR)*, 2023 [under review]
 
 ## 2019
-[Continuous-time systems for solving 0-1 integer linear programming feasibility problems]()  
+[Continuous-time systems for solving 0-1 integer linear programming feasibility problems](https://arxiv.org/abs/1905.04612)  
 **Chengrui Li** and Bruce J. MacLennan  
 *arXiv:1905.04612*, 2019
