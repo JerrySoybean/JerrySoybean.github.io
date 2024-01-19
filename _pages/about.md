@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>CSE @ Georgia Tech</a> cnlichengrui@gatech.edu
 
