@@ -7,4 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-asdfasdf
+## Peer Reviewed Conference Proceedings
+
+[C3] [Forward $\chi^2$ Divergence Based Variational Importance Sampling]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [\textbf{spotlight 5\%}]
