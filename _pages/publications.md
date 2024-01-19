@@ -2,14 +2,28 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: Publications in reversed chronological order. For publications by categories, please see my CV. 
 nav: true
 nav_order: 2
 ---
 
 ## Peer Reviewed Conference Proceedings
-[Forward $\chi^2$ Divergence Based Variational Importance Sampling]()  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5\%**]
+[Forward $$\chi^2$$ Divergence Based Variational Importance Sampling]()  
+**Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
+*The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5\%**]
 
-<a href="url">$\chi^2$sd</a>
+[One-hot Generalized Linear Model for Switching Brain State Discovery]()  
+**Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
+*The Twelfth International Conference on Learning Representations (ICLR)*, 2024
+
+[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model]()  
+Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
+*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023  [**Spotlight: 3\%**]
+
+[Inverse Kernel Decomposition]()  
+**Chengrui Li** and Anqi Wu  
+*Transactions on Machine Learning Research (TMLR)*, 2023 [under review]
+
+[Continuous-time systems for solving 0-1 integer linear programming feasibility problems]()  
+**Chengrui Li** and Bruce J. MacLennan  
+*arXiv:1905.04612*, 2019
