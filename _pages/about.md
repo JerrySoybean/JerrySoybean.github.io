@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>(CSE) @ Georgia Tech</a> <a href="mailto:cnlichengrui@gatech.edu">cnlichengrui@gatech.edu</a>
+subtitle: Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>CSE @ Georgia Tech</a> <a href="mailto:cnlichengrui@gatech.edu">cnlichengrui@gatech.edu</a>
 
 profile:
   align: right
