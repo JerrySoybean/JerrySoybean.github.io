@@ -19,7 +19,7 @@ nav_order: 2
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://openreview.net/forum?id=AuXd54odxm)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
-*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023  [**Spotlight: 3%**]
+*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023 [**Spotlight: 3%**]
 
 [Inverse Kernel Decomposition]()  
 **Chengrui Li** and Anqi Wu  
@@ -28,7 +28,7 @@ Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu
 ## 2020
 [The application of fractional order image enhancement in computational neuroscience]()  
 **Chengrui Li**, Wei Deng, and Yifei Pu  
-*Sichuan University Undergraduate Thesis*, 2020
+*Sichuan University Undergraduate Thesis*, 2020 [**Outstanding Undergraduate Thesis**]
 
 ## 2019
 [Continuous-time systems for solving 0-1 integer linear programming feasibility problems](https://arxiv.org/abs/1905.04612)  
