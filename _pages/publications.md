@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /publications/
 title: Publications
 description: Publications by categories in reversed chronological order.
@@ -13,5 +13,6 @@ nav_order: 2
 {% bibliography %}
 
 </div> -->
+
 
 asdfasdf
