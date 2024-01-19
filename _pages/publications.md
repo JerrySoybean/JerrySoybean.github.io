@@ -25,6 +25,11 @@ Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu
 **Chengrui Li** and Anqi Wu  
 *Transactions on Machine Learning Research (TMLR)*, 2023 [under review]
 
+## 2020
+[The application of fractional order image enhancement in computational neuroscience]()  
+**Chengrui Li**, Wei Deng, and Yifei Pu  
+*Sichuan University Undergraduate Thesis*, 2020
+
 ## 2019
 [Continuous-time systems for solving 0-1 integer linear programming feasibility problems](https://arxiv.org/abs/1905.04612)  
 **Chengrui Li** and Bruce J. MacLennan  
