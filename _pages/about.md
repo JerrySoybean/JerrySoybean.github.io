@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>CSE @ Georgia Tech</a> <a href="mailto:cnlichengrui@gatech.edu">cnlichengrui@gatech.edu</a>
+subtitle: "Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>CSE @ Georgia Tech</a>. Email: <a href="mailto:cnlichengrui@gatech."edu">cnlichengrui@gatech.edu</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Computational Science & Engineering (CSE) Ph.D. student working in the [BRAINML](https://sites.google.com/view/brainml/home) lab at [Georgia Tech (GT)](https://cse.gatech.edu/) from 2021, advised by [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch/home). I received my B.Eng. degree in Software Engineering (Computational Biology) and B.Sc. degree in Biological Sciences from [Sichuan University (SCU)](https://en.scu.edu.cn/) in 2020, advised by [Prof. Yifei Pu](https://cs.scu.edu.cn/info/1288/13622.htm) and [Prof. Wei Deng](https://www.hz7hospital.com/bssds/show/id/78.html). I also had an undergraduate exchange experience at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu) from 2018 to 2019.
+I'm a Computational Science & Engineering (CSE) Ph.D. student working in the [BRAINML](https://sites.google.com/view/brainml/home) lab at [Georgia Tech (GT)](https://cse.gatech.edu/) from 2021, advised by [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch/home). I received my B.Eng. honors degree in Software Engineering (Computational Biology) and B.Sc. honors degree in Biological Sciences from [Sichuan University (SCU)](https://en.scu.edu.cn/) in 2020, advised by [Prof. Yifei Pu](https://cs.scu.edu.cn/info/1288/13622.htm) and [Prof. Wei Deng](https://www.hz7hospital.com/bssds/show/id/78.html). I also had an undergraduate exchange experience at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu) from 2018 to 2019.
 
 Research interests:
 * Computational neuroscience, neural latent variable models, statistical machine learning.
