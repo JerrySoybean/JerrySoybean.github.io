@@ -8,6 +8,10 @@ nav_order: 2
 ---
 
 ## 2024
+[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing]()  
+**Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
+*The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
+
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling]()  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]
