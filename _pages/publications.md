@@ -12,6 +12,11 @@ nav_order: 2
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
+[Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions]()  
+Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
+*The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
+
+
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling]()  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]
