@@ -16,9 +16,9 @@ nav_order: 2
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
-[Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)
-Golnaz Forouzandehfar1, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas
-*Journal of Vision*, 2024
+[Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
+Golnaz Forouzandehfar1, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
+*Journal of Vision*, 2024  
 Poster presentation @ *{Vision Science Society (VSS) 2024, St. Pete Beach, Florida, USA*
 
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling]()  
