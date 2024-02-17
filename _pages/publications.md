@@ -8,11 +8,11 @@ nav_order: 2
 ---
 
 ## 2024
-[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing]()  
+[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://arxiv.org/abs/2402.01263)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
-[Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions]()  
+[Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions](https://arxiv.org/abs/2402.02686)  
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
@@ -21,16 +21,16 @@ Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas
 *Journal of Vision*, 2024  
 Poster presentation @ *Vision Science Society (VSS) 2024, St. Pete Beach, Florida, USA*
 
-[Forward $$\chi^2$$ Divergence Based Variational Importance Sampling]()  
+[Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/pdf?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]
 
-[One-hot Generalized Linear Model for Switching Brain State Discovery]()  
+[One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024
 
 ## 2023
-[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://openreview.net/forum?id=AuXd54odxm)  
+[Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
 *Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023 [**Spotlight: 3%**]
 
