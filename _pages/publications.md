@@ -24,19 +24,19 @@ Poster presentation @ *Vision Science Society (VSS) 2024, St. Pete Beach, Florid
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/pdf?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]  
-[paper](https://openreview.net/pdf?id=HD5Y7M8Xdk) [arXiv](Forward 
- Divergence Based Variational Importance Sampling) [code](https://github.com/JerrySoybean/vis)
+[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](Forward 
+ Divergence Based Variational Importance Sampling) [[code]](https://github.com/JerrySoybean/vis)
 
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024  
-[paper](https://openreview.net/pdf?id=MREQ0k6qvD) [arXiv](https://arxiv.org/abs/2310.15263) [code]()
+[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD) [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]]()
 
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
 *Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023 [**Spotlight: 3%**]  
-[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html) [arXiv](https://arxiv.org/abs/2306.06138) [code](https://github.com/alexwangNTL/ERDiff) 
+[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2306.06138) [[code]](https://github.com/alexwangNTL/ERDiff) 
 
 [Inverse Kernel Decomposition]()  
 **Chengrui Li** and Anqi Wu  
