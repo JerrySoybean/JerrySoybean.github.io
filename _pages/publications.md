@@ -24,7 +24,7 @@ Poster presentation @ *Vision Science Society (VSS) 2024, St. Pete Beach, Florid
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/pdf?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]  
-[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[code]](https://github.com/JerrySoybean/vis) [[中文]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[code]](https://github.com/JerrySoybean/vis) [[slides]](/assets/pdf/VIS%202023.10.5%20pre.pdf) [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
 
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
