@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+<div class="publications">
+
 ## 2024
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://arxiv.org/abs/2402.01263)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
@@ -51,3 +53,5 @@ Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu
 [Continuous-time systems for solving 0-1 integer linear programming feasibility problems](https://arxiv.org/abs/1905.04612)  
 **Chengrui Li** and Bruce J. MacLennan  
 *arXiv:1905.04612*, 2019
+
+</div>
