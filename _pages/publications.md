@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications">
 
 ## 2024
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://arxiv.org/abs/2402.01263)  
@@ -54,4 +53,3 @@ Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu
 **Chengrui Li** and Bruce J. MacLennan  
 *arXiv:1905.04612*, 2019
 
-</div>
