@@ -18,9 +18,6 @@ nav_order: 2
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
-<b>sdf</b>
-<strong>dsf</strong>
-<u>sdfd</u>
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
 Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
 *Journal of Vision*, 2024  
@@ -29,7 +26,7 @@ Poster presentation @ *Vision Science Society (VSS) 2024, St. Pete Beach, Florid
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/pdf?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]  
-<a href="https://openreview.net/pdf?id=HD5Y7M8Xdk" class="publications links btn btn-sm z-depth-0" role="button">paper</a>  <a href="https://arxiv.org/abs/2311.02516" class="links btn btn-sm z-depth-0" role="button">arXiv</a>  
+<a href="https://openreview.net/pdf?id=HD5Y7M8Xdk" class="btn-sm z-depth-0" role="button">paper</a>  <a href="https://arxiv.org/abs/2311.02516" class="btn z-depth-0" role="button">arXiv</a>  
 [[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[code]](https://github.com/JerrySoybean/vis) [[slides]](/assets/pdf/VIS%202023.10.5%20pre.pdf) [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
 
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
