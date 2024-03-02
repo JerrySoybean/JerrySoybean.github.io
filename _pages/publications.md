@@ -20,7 +20,7 @@ Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu
 
 [Inverse Kernel Decomposition]()  
 **Chengrui Li** and Anqi Wu  
-*Transactions on Machine Learning Research (TMLR)*, 2024
+*Transactions on Machine Learning Research (TMLR)*, 2024  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[文章]()
 
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
