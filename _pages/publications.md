@@ -18,6 +18,11 @@ nav_order: 2
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
+[Inverse Kernel Decomposition]()  
+**Chengrui Li** and Anqi Wu  
+*Transactions on Machine Learning Research (TMLR)*, 2023 [under review]
+[[paper]]()  [[arXiv]()  [[code]]()  [[文章]()
+
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
 Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
 *Journal of Vision*, 2024  
@@ -31,17 +36,13 @@ Poster presentation @ *Vision Science Society (VSS) 2024, St. Pete Beach, Florid
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD) [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]]()
+[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD) [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]]()  [[slides]]()  [[文章]]()
 
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
 *Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023 [**Spotlight: 3%**]  
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2306.06138) [[code]](https://github.com/alexwangNTL/ERDiff) 
-
-[Inverse Kernel Decomposition]()  
-**Chengrui Li** and Anqi Wu  
-*Transactions on Machine Learning Research (TMLR)*, 2023 [under review]
 
 ## 2020
 [The application of fractional order image enhancement in computational neuroscience]()  
