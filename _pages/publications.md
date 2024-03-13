@@ -36,7 +36,7 @@ Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD) [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]]()  [[slides]]()  [[文章]]()
+[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD) [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
 
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  
