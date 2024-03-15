@@ -45,11 +45,13 @@ Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2306.06138) [[code]](https://github.com/alexwangNTL/ERDiff) 
 
 ## 2020
-[The application of fractional order image enhancement in computational neuroscience]()  
+[The application of fractional order image enhancement in computational neuroscience](/assets/pdf/本科毕业论文.pdf)  
 **Chengrui Li**, Wei Deng, and Yifei Pu  
-*Sichuan University Undergraduate Thesis*, 2020 [**Outstanding Undergraduate Thesis**]
+*Sichuan University Undergraduate Thesis*, 2020 [**Outstanding Undergraduate Thesis**]  
+[[文章]](/assets/pdf/本科毕业论文.pdf)
 
 ## 2019
 [Continuous-time systems for solving 0-1 integer linear programming feasibility problems](https://arxiv.org/abs/1905.04612)  
 **Chengrui Li** and Bruce J. MacLennan  
-*arXiv:1905.04612*, 2019
+*arXiv:1905.04612*, 2019  
+[[arXiv]](https://arxiv.org/abs/1905.04612)
