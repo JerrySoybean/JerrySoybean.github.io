@@ -21,7 +21,7 @@ Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu
 [Inverse Kernel Decomposition](https://openreview.net/pdf?id=H4OE7toXpa)  
 **Chengrui Li** and Anqi Wu  
 *Transactions on Machine Learning Research (TMLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=H4OE7toXpa)  [[arXiv]](https://arxiv.org/abs/2211.05961)  [[code]](https://github.com/JerrySoybean/ikd)  [[slides]](/assets/pdf/IKD%20pre.pdf)  [[文章]]()
+[[paper]](https://openreview.net/pdf?id=H4OE7toXpa)  [[arXiv]](https://arxiv.org/abs/2211.05961) [[code]](https://github.com/JerrySoybean/ikd)  [[slides]](/assets/pdf/IKD%20pre.pdf)  [[video]]()  [[文章]]()
 
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
 Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
@@ -31,18 +31,18 @@ Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/pdf?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]  
-[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[code]](https://github.com/JerrySoybean/vis) [[slides]](/assets/pdf/VIS%202023.10.5%20pre.pdf) [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk)  [[arXiv]](https://arxiv.org/abs/2311.02516)  [[code]](https://github.com/JerrySoybean/vis)  [[slides]](/assets/pdf/VIS%202023.10.5%20pre.pdf)  [[video]]()  [[poster]]()  [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
 
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/pdf?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD) [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD)  [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[video]]()  [[poster]]()  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
 
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
 *Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023 [**Spotlight: 3%**]  
-[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2306.06138) [[code]](https://github.com/alexwangNTL/ERDiff) 
+[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  [[arXiv]](https://arxiv.org/abs/2306.06138)  [[code]](https://github.com/alexwangNTL/ERDiff) 
 
 ## 2020
 [The application of fractional order image enhancement in computational neuroscience](/assets/pdf/本科毕业论文.pdf)  
