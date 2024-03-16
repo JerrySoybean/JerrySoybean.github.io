@@ -18,10 +18,10 @@ nav_order: 2
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
 
-[Inverse Kernel Decomposition]()  
+[Inverse Kernel Decomposition](https://openreview.net/pdf?id=H4OE7toXpa)  
 **Chengrui Li** and Anqi Wu  
 *Transactions on Machine Learning Research (TMLR)*, 2024  
-[[paper]]()  [[arXiv]](https://arxiv.org/abs/2211.05961)  [[code]](https://github.com/JerrySoybean/ikd)  [[slides]](/assets/pdf/IKD%20pre.pdf)  [[文章]]()
+[[paper]](https://openreview.net/pdf?id=H4OE7toXpa)  [[arXiv]](https://arxiv.org/abs/2211.05961)  [[code]](https://github.com/JerrySoybean/ikd)  [[slides]](/assets/pdf/IKD%20pre.pdf)  [[文章]]()
 
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
 Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
