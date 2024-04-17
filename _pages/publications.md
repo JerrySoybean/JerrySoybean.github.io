@@ -31,12 +31,12 @@ Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://iclr.cc/virtual/2024/poster/19003)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]  
-[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk)  [[arXiv]](https://arxiv.org/abs/2311.02516)  [[code]](https://github.com/JerrySoybean/vis)  [[slides]](/assets/pdf/VIS%20pre.pdf)  [[video]](https://recorder-v3.slideslive.com/#/share?share=90867&s=74d1bcf6-2f97-43d0-b0a4-87ad795d5602)  [[poster]](/assets/pdf/One-hot%20HMM-GLM%20ICLR%202024%20poster.pdf)  [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk)  [[arXiv]](https://arxiv.org/abs/2311.02516)  [[code]](https://github.com/JerrySoybean/vis)  [[slides]](/assets/pdf/VIS%20pre.pdf)  [[video]](https://recorder-v3.slideslive.com/#/share?share=90867&s=74d1bcf6-2f97-43d0-b0a4-87ad795d5602)  [[poster]]()  [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
 
 [One-hot Generalized Linear Model for Switching Brain State Discovery](https://iclr.cc/virtual/2024/poster/18822)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD)  [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[video]](https://recorder-v3.slideslive.com/?share=90866&s=36c13cb1-072a-49bf-a85a-34718072e363)  [[poster]]()  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD)  [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[video]](https://recorder-v3.slideslive.com/?share=90866&s=36c13cb1-072a-49bf-a85a-34718072e363)  [[poster]](/assets/pdf/One-hot%20HMM-GLM%20ICLR%202024%20poster.pdf)  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
 
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://neurips.cc/virtual/2023/poster/72520)  
