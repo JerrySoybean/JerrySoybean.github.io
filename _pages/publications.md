@@ -10,33 +10,36 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 ## 2024
-[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://arxiv.org/abs/2402.01263)  
+[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
-*The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
+*The Forty-first International Conference on Machine Learning (ICML)*, 2024
+[[paper]](https://openreview.net/pdf?id=2FKzbEE24s)  [[arXiv]](https://arxiv.org/abs/2311.02516)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]]()  [[video]]()  [[poster]]()  [[文章]]()
 
-[Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions](https://arxiv.org/abs/2402.02686)  
+[Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions](https://openreview.net/forum?id=us6zMORsMe)  
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
-*The Forty-first International Conference on Machine Learning (ICML)*, 2024 [under review]
+*The Forty-first International Conference on Machine Learning (ICML)*, 2024
+[[paper]](https://openreview.net/pdf?id=2FKzbEE24s)  [[arXiv]](https://arxiv.org/abs/2402.02686)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]]()  [[video]]()  [[poster]]()
+
 
 [Inverse Kernel Decomposition](https://openreview.net/pdf?id=H4OE7toXpa)  
 **Chengrui Li** and Anqi Wu  
 *Transactions on Machine Learning Research (TMLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=H4OE7toXpa)  [[arXiv]](https://arxiv.org/abs/2211.05961) [[code]](https://github.com/JerrySoybean/ikd)  [[slides]](/assets/pdf/IKD%20pre.pdf)  [[文章]](/assets/pdf/IKD_TMLR_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=H4OE7toXpa)  [[arXiv]](https://arxiv.org/abs/2211.05961)  [[code]](https://github.com/JerrySoybean/ikd)  [[slides]](/assets/pdf/IKD%20pre.pdf)  [[文章]](/assets/pdf/IKD_TMLR_中文.pdf)
 
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
 Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
 *Journal of Vision*, 2024  
 [[poster]]()
 
-[Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://iclr.cc/virtual/2024/poster/19003)  
+[Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/forum?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024 [**spotlight 5%**]  
 [[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk)  [[arXiv]](https://arxiv.org/abs/2311.02516)  [[code]](https://github.com/JerrySoybean/vis)  [[slides]](/assets/pdf/VIS%20pre.pdf)  [[video]](https://recorder-v3.slideslive.com/#/share?share=90867&s=74d1bcf6-2f97-43d0-b0a4-87ad795d5602)  [[poster]](/assets/pdf/VIS%20ICLR%202024%20poster.pdf)  [[文章]](/assets/pdf/VIS_ICLR_2024_中文.pdf)
 
-[One-hot Generalized Linear Model for Switching Brain State Discovery](https://iclr.cc/virtual/2024/poster/18822)  
+[One-hot Generalized Linear Model for Switching Brain State Discovery](https://openreview.net/forum?id=MREQ0k6qvD)  
 **Chengrui Li**, Soon Ho Kim, Chris Rodgers, Hannah Choi, and Anqi Wu  
 *The Twelfth International Conference on Learning Representations (ICLR)*, 2024  
-[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD)  [[arXiv]](https://arxiv.org/abs/2310.15263) [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[video]](https://recorder-v3.slideslive.com/?share=90866&s=36c13cb1-072a-49bf-a85a-34718072e363)  [[poster]](/assets/pdf/One-hot%20HMM-GLM%20ICLR%202024%20poster.pdf)  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=MREQ0k6qvD)  [[arXiv]](https://arxiv.org/abs/2310.15263)  [[code]](https://github.com/JerrySoybean/onehot-hmmglm)  [[slides]](/assets/pdf/One-hot HMM-GLM pre.pdf)  [[video]](https://recorder-v3.slideslive.com/?share=90866&s=36c13cb1-072a-49bf-a85a-34718072e363)  [[poster]](/assets/pdf/One-hot%20HMM-GLM%20ICLR%202024%20poster.pdf)  [[文章]](/assets/pdf/OnehotHMMGLM_ICLR_2024_中文.pdf)
 
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://neurips.cc/virtual/2023/poster/72520)  
