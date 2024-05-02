@@ -12,7 +12,7 @@ nav_order: 2
 ## 2024
 [Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification]()  
 Zhi Li, Ke Zheng, Jiaxin Li, Chengrui Li, and Lianru Gao  
-*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024 [under review]
 [[paper]]()
 
 
