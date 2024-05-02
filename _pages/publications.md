@@ -10,6 +10,12 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 ## 2024
+[Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification]()  
+Zhi Li, Ke Zheng, Jiaxin Li, Chengrui Li, and Lianru Gao  
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
+[[paper]]()
+
+
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024
