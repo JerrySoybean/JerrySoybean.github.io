@@ -35,7 +35,7 @@ Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu
 [Similarity of Memory Representations Modulate Saccade Curvatures](https://www.visionsciences.org/presentation/?id=1434)  
 Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas  
 *Journal of Vision*, 2024  
-[[poster]]()
+[[poster]](/assets/pdf/VSS2024_Trajectory_Poster1_ct.pdf)
 
 [Forward $$\chi^2$$ Divergence Based Variational Importance Sampling](https://openreview.net/forum?id=HD5Y7M8Xdk)  
 **Chengrui Li**, Yule Wang, Weihan Li, and Anqi Wu  
