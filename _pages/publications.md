@@ -10,11 +10,20 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 ## 2024
+[Markovian Gaussian Process: A Universal State-Space Representation for Stationary Temporal Gaussian Process]()  
+Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu  
+*Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024 [under review]  
+[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+
+[Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
+Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu  
+*Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024 [under review]  
+[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+
 [Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification]()  
 Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao  
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024 [under review]  
 [[paper]]()
-
 
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
@@ -25,7 +34,6 @@ Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024  
 [[paper]](https://openreview.net/pdf?id=2FKzbEE24s)  [[arXiv]](https://arxiv.org/abs/2402.02686)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]]()  [[video]]()  [[poster]]()
-
 
 [Inverse Kernel Decomposition](https://openreview.net/pdf?id=H4OE7toXpa)  
 **Chengrui Li** and Anqi Wu  
