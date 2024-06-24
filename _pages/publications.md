@@ -28,7 +28,7 @@ Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024  
-[[paper]](https://openreview.net/pdf?id=2FKzbEE24s)  [[arXiv]](https://arxiv.org/abs/2402.01263)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]](/assets/pdf/diffPOGLM%20pre.pdf)  [[video]]()  [[poster]](/assets/pdf/diffPOGLM%20ICML%202024%20poster.pdf)  [[文章]](/assets/pdf/softPOGLM_ICML_2024_中文.pdf)
+[[paper]](https://openreview.net/pdf?id=2FKzbEE24s)  [[arXiv]](https://arxiv.org/abs/2402.01263)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]](/assets/pdf/diffPOGLM%20pre.pdf)  [[video]](https://www.youtube.com/watch?v=GAK0d4WGQ7E)  [[poster]](/assets/pdf/diffPOGLM%20ICML%202024%20poster.pdf)  [[文章]](/assets/pdf/softPOGLM_ICML_2024_中文.pdf)
 
 [Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions](https://openreview.net/forum?id=us6zMORsMe)  
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
