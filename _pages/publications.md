@@ -22,7 +22,7 @@ Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu
 
 [Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification]()  
 Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao  
-*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024 [under review]  
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
 [[paper]]()
 
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
