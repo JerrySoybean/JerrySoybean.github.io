@@ -23,7 +23,7 @@ I'm a Computational Science & Engineering (CSE) Ph.D. student working in the [BR
 
 Research interests:
 * Computational neuroscience, neural latent variable models, statistical machine learning.
-* Eye tracking experiment and data analysis.
+* Eye tracking experiments and data analysis.
 * Fractional calculus signal processing.
 
 I play the violin in [Georgia Tech Symphony Orchestra](https://music.gatech.edu/orchestras) since 2023, and I can also play the piano. Outside of research and music, I can perform professional magic tricks and play YOYO ball.
