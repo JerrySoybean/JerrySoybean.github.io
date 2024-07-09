@@ -13,7 +13,7 @@ nav_order: 2
 [Markovian Gaussian Process: A Universal State-Space Representation for Stationary Temporal Gaussian Process]()  
 Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu  
 *Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024 [under review]  
-[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]]()  [[arXiv]](https://arxiv.org/pdf/2407.00397)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
 Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu  
