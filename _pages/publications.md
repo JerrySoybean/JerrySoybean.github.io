@@ -20,10 +20,10 @@ Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu
 *Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024 [under review]  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
-[Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification]()  
+[Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10596098)  
 Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao  
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
-[[paper]]()
+[[paper]](https://ieeexplore.ieee.org/document/10596098)
 
 [A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
