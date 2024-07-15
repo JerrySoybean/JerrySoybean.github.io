@@ -22,8 +22,13 @@
     },
     {
       "institution": "COVID-19 Deferral",
+      "location": "",
+      "url": "",
+      "area": "",
+      "studyType": "",
       "startDate": "2020-08",
       "endDate": "2021-08",
+      "score": ""
     },
     {
       "institution": "University of Tennessee, Knoxville (UTK)",
