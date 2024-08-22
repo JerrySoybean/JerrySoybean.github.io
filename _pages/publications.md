@@ -17,7 +17,7 @@ Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu
 
 [Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
 Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu  
-*Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024 [under review]  
+*Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10596098)  
