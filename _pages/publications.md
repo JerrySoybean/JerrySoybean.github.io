@@ -10,9 +10,14 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 ## 2024
+[A Revisit of Total Correlation in Disentangled Variational Auto-Encoder with Partial Disentanglement]()  
+**Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
+*The Thirteenth International Conference on Learning Representations (ICLR)*, 2025 [under review]  
+[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+
 [Markovian Gaussian Process: A Universal State-Space Representation for Stationary Temporal Gaussian Process]()  
 Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu  
-*Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024 [under review]  
+*arXiv:2407.00397*, 2024  
 [[paper]]()  [[arXiv]](https://arxiv.org/pdf/2407.00397)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
