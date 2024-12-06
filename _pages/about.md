@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CODA 1347</p>
-    <p>756 W Peachtree St NW</p>
-    <p>Atlanta, GA 30305, USA</p>
+    <p>&#127931;</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
