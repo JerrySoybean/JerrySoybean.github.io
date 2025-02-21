@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Publications in reversed chronological order. For publications by categories, please see my <a href='/cv/'>CV</a>. 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
