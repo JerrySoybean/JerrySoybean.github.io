@@ -5,8 +5,8 @@ title: Gallery
 nav: true
 nav_order: 2
 description: Music, magic, YOYO ball, and others.
-toc:
-    sidebar: left
+# toc:
+#     sidebar: left
 ---
 
 <div class="projects">
@@ -43,6 +43,8 @@ toc:
         <div style="position: relative; padding: 30% 45%;">
             <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=1850814876&bvid=BV15W421N7Yo&cid=1447169835&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
         </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 
