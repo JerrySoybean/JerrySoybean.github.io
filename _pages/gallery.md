@@ -13,8 +13,8 @@ description: Music, magic, YOYO ball, and others.
     <div style="position: relative; padding: 30% 45%;">
         <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     </div>
-    <div style="position: relative; padding: 30% 45%;">
-        <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+    <!-- <div style="position: relative; padding: 30% 45%;">
+        <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> -->
 </div>
 
 
@@ -23,9 +23,9 @@ description: Music, magic, YOYO ball, and others.
     <div style="position: relative; padding: 30% 45%;">
 	    <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977778507467&bvid=BV1RiNdeWEQF&cid=28309129312&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     </div>
-    <div style="position: relative; padding: 30% 45%;">
+    <!-- <div style="position: relative; padding: 30% 45%;">
 	    <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977778507467&bvid=BV1RiNdeWEQF&cid=28309129312&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-    </div>
+    </div> -->
 </div>
 
 
@@ -34,8 +34,8 @@ description: Music, magic, YOYO ball, and others.
     <div style="position: relative; padding: 30% 45%;">
         <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=1850814876&bvid=BV15W421N7Yo&cid=1447169835&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
     </div>
-    <div style="position: relative; padding: 30% 45%;">
-        <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=1850814876&bvid=BV15W421N7Yo&cid=1447169835&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+    <!-- <div style="position: relative; padding: 30% 45%;">
+        <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=1850814876&bvid=BV15W421N7Yo&cid=1447169835&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe> -->
     </div>
 </div>
 
