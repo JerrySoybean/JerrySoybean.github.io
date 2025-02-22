@@ -12,11 +12,11 @@ description: Music, magic, YOYO ball, and others.
 <div class="row mt-3">
     <!-- <div style="position: relative; padding: 30% 45%;"> -->
     <div class="col-sm mt-3 mt-md-0">
-        <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <div style="position: relative; padding: 30% 45%;">
-            <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+            <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977761727056&bvid=BV1dqNdeXENx&cid=28309128089&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
         </div>
     </div>
 </div>
@@ -25,10 +25,10 @@ description: Music, magic, YOYO ball, and others.
 <h2 class="category">magic 魔术</h2>
 <div class="row mt-3">
     <div style="position: relative; padding: 30% 45%;">
-	    <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977778507467&bvid=BV1RiNdeWEQF&cid=28309129312&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+	    <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977778507467&bvid=BV1RiNdeWEQF&cid=28309129312&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
     </div>
     <!-- <div style="position: relative; padding: 30% 45%;">
-	    <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977778507467&bvid=BV1RiNdeWEQF&cid=28309129312&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+	    <iframe style="position: absolute; width: 45%; height: 45%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=113977778507467&bvid=BV1RiNdeWEQF&cid=28309129312&p=1&as_wide=1&high_quality=1&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
     </div> -->
 </div>
 
