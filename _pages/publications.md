@@ -13,7 +13,7 @@ nav_order: 1
 [A Revisit of Total Correlation in Disentangled Variational Auto-Encoder with Partial Disentanglement]()  
 **Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
 *The Thirteenth International Conference on Learning Representations (ICML)*, 2025 [under review]  
-[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]]()  [[arXiv]](https://arxiv.org/abs/2502.02279)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 ## 2024
 [Markovian Gaussian Process: A Universal State-Space Representation for Stationary Temporal Gaussian Process]()  
