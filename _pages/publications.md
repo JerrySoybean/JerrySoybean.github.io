@@ -29,17 +29,17 @@ Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao
 [Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
 Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu  
 *Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024  
-[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3d55170799265c03b37993e02b71b2cc-Abstract-Conference.html)  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10596098)  
 Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao  
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
 [[paper]](https://ieeexplore.ieee.org/document/10596098)
 
-[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://openreview.net/forum?id=2FKzbEE24s)  
+[A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing](https://proceedings.mlr.press/v235/li24aj.html)  
 **Chengrui Li**, Weihan Li, Yule Wang, and Anqi Wu  
 *The Forty-first International Conference on Machine Learning (ICML)*, 2024  
-[[paper]](https://openreview.net/pdf?id=2FKzbEE24s)  [[arXiv]](https://arxiv.org/abs/2402.01263)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]](/assets/pdf/diffPOGLM%20pre.pdf)  [[video]](https://www.youtube.com/watch?v=GAK0d4WGQ7E)  [[poster]](/assets/pdf/diffPOGLM%20ICML%202024%20poster.pdf)  [[文章]](/assets/pdf/softPOGLM_ICML_2024_中文.pdf)
+[[paper]](https://proceedings.mlr.press/v235/li24aj.html)  [[arXiv]](https://arxiv.org/abs/2402.01263)  [[code]](https://github.com/JerrySoybean/poglm)  [[slides]](/assets/pdf/diffPOGLM%20pre.pdf)  [[video]](https://www.youtube.com/watch?v=GAK0d4WGQ7E)  [[poster]](/assets/pdf/diffPOGLM%20ICML%202024%20poster.pdf)  [[文章]](/assets/pdf/softPOGLM_ICML_2024_中文.pdf)
 
 [Multi-Region Markovian Gaussian Process: An Efficient Method to Discover Directional Communications Across Multiple Brain Regions](https://openreview.net/forum?id=us6zMORsMe)  
 Weihan Li, **Chengrui Li**, Yule Wang, and Anqi Wu  
