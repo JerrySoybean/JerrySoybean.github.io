@@ -15,12 +15,17 @@ nav_order: 1
 *The Thirteenth International Conference on Learning Representations (ICML)*, 2025 [under review]  
 [[paper]]()  [[arXiv]](https://arxiv.org/abs/2502.02279)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
-## 2024
-[Markovian Gaussian Process: A Universal State-Space Representation for Stationary Temporal Gaussian Process]()  
-Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu  
-*arXiv:2407.00397*, 2024  
-[[paper]]()  [[arXiv]](https://arxiv.org/pdf/2407.00397)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/forum?id=pOAEfqa26i)  
+Weihan Li, Yule Wang, **Chengrui Li**, Anqi Wu  
+*The Forty-Second International Conference on Machine Learning (ICML)*, 2025 [**Spotlight: 2.6%**]  
+[[paper]](https://openreview.net/pdf?id=pOAEfqa26i)  [[arXiv]](https://arxiv.org/pdf/2407.00397)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
+[Feature Reconstruction Guided Fusion Network for Hyperspectral and LiDAR Classification](https://ieeexplore.ieee.org/document/10596098)  
+Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao  
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
+[[paper]](https://ieeexplore.ieee.org/document/10970021)
+
+## 2024
 [Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
 Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu  
 *Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024  
