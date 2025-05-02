@@ -16,12 +16,12 @@ nav_order: 1
 [[paper]]()  [[arXiv]](https://arxiv.org/abs/2502.02279)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/forum?id=pOAEfqa26i)  
-Weihan Li, Yule Wang, **Chengrui Li**, Anqi Wu  
+Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu  
 *The Forty-Second International Conference on Machine Learning (ICML)*, 2025 [**Spotlight: 2.6%**]  
 [[paper]](https://openreview.net/pdf?id=pOAEfqa26i)  [[arXiv]](https://arxiv.org/pdf/2407.00397)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Feature Reconstruction Guided Fusion Network for Hyperspectral and LiDAR Classification](https://ieeexplore.ieee.org/document/10596098)  
-Zhi Li, Ke Zheng, Jiaxin Li, **Chengrui Li**, and Lianru Gao  
+Zhi Li, Ke Zheng, Lianru Gao, Nannan Zi, and **Chengrui Li**,  
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024  
 [[paper]](https://ieeexplore.ieee.org/document/10970021)
 
