@@ -17,14 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Computational Science & Engineering (CSE) Ph.D. student working in the [BRAINML](https://sites.google.com/view/brainml/home) lab at [Georgia Tech (GT)](https://cse.gatech.edu/) from 2021, advised by [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch/home). I received my B.Eng. honors degree in Software Engineering (Computational Biology) and B.Sc. honors degree in Biological Sciences from [Sichuan University (SCU)](https://en.scu.edu.cn/) in 2020, advised by [Prof. Yifei Pu](https://cs.scu.edu.cn/info/1288/13622.htm) and [Prof. Wei Deng](https://www.hz7hospital.com/bssds/show/id/78.html). I also had an undergraduate exchange experience at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu) from 2018 to 2019. During the past few years, I was fortunate to have intern experiences in [Meta Reality Labs](https://about.meta.com/realitylabs/).
+I'm a research scientist at Meta since 2025, working on neural surface electromyography (sEMG) in Meta's CTRL-Labs. I'm also a Computational Science & Engineering (CSE) Ph.D. candidate working in the [BRAINML](https://sites.google.com/view/brainml/home) lab at [Georgia Tech (GT)](https://cse.gatech.edu/) since 2021, advised by [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch/home). I received my B.Eng. honors degree in Software Engineering (Computational Biology) and B.Sc. honors degree in Biological Sciences from [Sichuan University (SCU)](https://en.scu.edu.cn/) in 2020, advised by [Prof. Yifei Pu](https://cs.scu.edu.cn/info/1288/13622.htm) and [Prof. Wei Deng](https://www.hz7hospital.com/bssds/show/id/78.html). I also had an undergraduate exchange experience at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu) from 2018 to 2019. During the past few years, I was fortunate to have intern experiences in [Meta Reality Labs](https://about.meta.com/realitylabs/).
 
 Research interests:
 * Computational neuroscience, neural latent variable models, statistical machine learning.
 * Eye tracking experiments and data analysis.
 * Fractional calculus signal processing.
 
-I play the violin in [Georgia Tech Symphony Orchestra](https://music.gatech.edu/orchestras) since 2023, and I can also play the piano. Outside of research and music, I can perform professional magic tricks and play YOYO ball. Take a look at my [Gallery](/gallery/).
+I play the violin in [Georgia Tech Symphony Orchestra](https://music.gatech.edu/orchestras) from 2023 to 2025, and I can also play the piano. Outside of research and music, I can perform professional magic tricks and play YOYO ball. Take a look at my [Gallery](/gallery/).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
