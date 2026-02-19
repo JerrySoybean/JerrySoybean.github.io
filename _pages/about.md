@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>CSE @ Georgia Tech</a></p><p>Email&#58; <a href="mailto:cnlichengrui@gatech.edu">cnlichengrui@gatech.edu</a></p>
+subtitle: <p>Ph.D. in <a href='https://www.cse.gatech.edu/people/chengrui-li'>Computational Science \& Engineering from Georgia Institute of Technology</a></p><p>Email&#58; <a href="mailto:cnlichengrui@meta.com">cnlichengrui@{meta,foxmail,gmail}.com</a></p>
 
 profile:
   align: right
@@ -17,14 +17,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a research scientist at Meta since 2025, working on neural surface electromyography (sEMG) in Meta's CTRL-Labs. I'm also a Computational Science & Engineering (CSE) Ph.D. candidate working in the [BRAINML](https://sites.google.com/view/brainml/home) lab at [Georgia Tech (GT)](https://cse.gatech.edu/) since 2021, advised by [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch/home). I received my B.Eng. honors degree in Software Engineering (Computational Biology) and B.Sc. honors degree in Biological Sciences from [Sichuan University (SCU)](https://en.scu.edu.cn/) in 2020, advised by [Prof. Yifei Pu](https://cs.scu.edu.cn/info/1288/13622.htm) and [Prof. Wei Deng](https://www.hz7hospital.com/bssds/show/id/78.html). I also had an undergraduate exchange experience at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu) from 2018 to 2019. In the summer of 2024, I was fortunate to have an intern experience in [Meta Reality Labs](https://about.meta.com/realitylabs/).
+I'm currently a research scientist at Meta since June 2025, working on neural surface electromyography (sEMG) in Meta's CTRL-Labs. I obtained my Ph.D. degree in Computational Science & Engineering (CSE) with an awarded master degree in Mathematics from [Georgia Tech (GT)](https://cse.gatech.edu/), advised by [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch/home). My undergraduate is from [Wu Yuzhang Honors College, Sichuan University (SCU)](https://en.scu.edu.cn/). My research interests lies in computational neuroscience, statistical machine learning, eye tracking experiments, and fractional calculus. The [CV](/cv/) page shows my academic resume, with the [Publications](/publications/) page showing my academic research achievements.
 
-Research interests:
-* Computational neuroscience, neural latent variable models, statistical machine learning.
-* Eye tracking experiments and data analysis.
-* Fractional calculus signal processing.
+I'm currently a violin player in the [New Amsterdam Symphony Orchestra](https://nasorch.org/) in New York City since the October 2025. Before that I play the violin in [Georgia Tech Symphony Orchestra](https://music.gatech.edu/orchestras) from 2023 to 2025, and I can also play the piano and others.
 
-I play the violin in [Georgia Tech Symphony Orchestra](https://music.gatech.edu/orchestras) from 2023 to 2025, and I can also play the piano. Outside of research and music, I can perform professional magic tricks and play YOYO ball. Take a look at my [Gallery](/gallery/).
+I started to learn and perform magic tricks since 2009. Currently, I'm a member of the [International Brotherhood of Magicians (I.B.M.)](https://www.magician.org/) and a member of the [Society of American Magicians](https://www.magicsam.com/).
+
+Outside of the above, I also play YOYO ball. Take a look at my [Gallery](/gallery/) for my "out of research" pieces.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
