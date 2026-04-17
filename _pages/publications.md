@@ -11,17 +11,18 @@ nav_order: 1
 
 ## 2026
 [A Hitchhiker's Guide to Poisson Gradient Estimation]()  
-Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi Li, **Chengrui Li**<sup>†</sup>, and Hadi Vafaii<sup>†</sup> (<sup>\*</sup>co-first authorship, <sup>†</sup>co-senior authorship)  
-*{The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
+Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi Li, **Chengrui Li**<sup>†</sup>, and Hadi Vafaii<sup>†</sup>  
+(<sup>\*</sup>co-first authorship, <sup>†</sup>co-senior authorship)  
+*The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity]()  
 **Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
-*{The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
+*The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion]()  
-**Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
+Yule Wang, Joseph Yu, **Chengrui Li**, Weihan Li, and Anqi Wu  
 *{The Fourteenth International Conference on Learning Representations (ICLR)*, 2026  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
