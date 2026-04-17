@@ -9,15 +9,26 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
-## 2025
-[A Disentangled Low-Rank RNN Framework For Uncovering Neural Connectivity and Dynamics]()  
-**Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
-*{The Fourteenth International Conference on Learning Representations (ICLR)*, 2026 [under review]  
+## 2026
+[A Hitchhiker's Guide to Poisson Gradient Estimation]()  
+Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi Li, **Chengrui Li**<sup>†</sup>, and Hadi Vafaii<sup>†</sup> (<sup>\*</sup>co-first authorship, <sup>†</sup>co-senior authorship)  
+*{The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
+[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity]()  
+**Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
+*{The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
+[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+
+[Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion]()  
+**Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
+*{The Fourteenth International Conference on Learning Representations (ICLR)*, 2026  
+[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+
+## 2025
 [A Revisit of Total Correlation in Disentangled Variational Auto-Encoder with Partial Disentanglement]()  
 **Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
-*The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025 [under review]  
+*arXiv:2502.02279*, 2025  
 [[paper]]()  [[arXiv]](https://arxiv.org/abs/2502.02279)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/forum?id=pOAEfqa26i)  
