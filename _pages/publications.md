@@ -13,12 +13,12 @@ nav_order: 1
 [A Hitchhiker's Guide to Poisson Gradient Estimation]()  
 Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi Li, **Chengrui Li**<sup>†</sup>, and Hadi Vafaii<sup>†</sup>  
 (<sup>\*</sup>co-first authorship, <sup>†</sup>co-senior authorship)  
-*The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
+*The Forty-third International Conference on Machine Learning (ICML)*, 2026  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity]()  
 **Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
-*The Forty-third International Conference on Machine Learning (ICML)*, 2026 [under review]  
+*The Forty-third International Conference on Machine Learning (ICML)*, 2026 [**Spotlight: 2.2%**]  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion]()  
