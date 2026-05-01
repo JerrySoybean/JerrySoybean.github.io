@@ -23,7 +23,7 @@ Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi 
 
 [Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion]()  
 Yule Wang, Joseph Yu, **Chengrui Li**, Weihan Li, and Anqi Wu  
-*{The Fourteenth International Conference on Learning Representations (ICLR)*, 2026  
+*The Fourteenth International Conference on Learning Representations (ICLR)*, 2026  
 [[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 ## 2025
