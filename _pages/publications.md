@@ -10,21 +10,21 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 ## 2026
-[A Hitchhiker's Guide to Poisson Gradient Estimation]()  
+[A Hitchhiker's Guide to Poisson Gradient Estimation](https://icml.cc/virtual/2026/poster/63866)  
 Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi Li, **Chengrui Li**<sup>†</sup>, and Hadi Vafaii<sup>†</sup>  
 (<sup>\*</sup>co-first authorship, <sup>†</sup>co-senior authorship)  
 *The Forty-third International Conference on Machine Learning (ICML)*, 2026  
-[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]](https://openreview.net/pdf?id=T4Ibp5vLpE)  [[arXiv]](https://arxiv.org/abs/2602.03896)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
-[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity]()  
+[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](https://icml.cc/virtual/2026/poster/64097)  
 **Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
 *The Forty-third International Conference on Machine Learning (ICML)*, 2026 [**Spotlight: 2.2%**]  
-[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]](https://openreview.net/pdf?id=QvIbmX9jBr)  [[arXiv]](https://arxiv.org/abs/2511.13899)  [[code]](https://github.com/JerrySoybean/facrnn)  [[slides]]()  [[video]]()  [[poster]]()
 
-[Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion]()  
+[Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion](https://openreview.net/forum?id=pWX9PUbqPj)  
 Yule Wang, Joseph Yu, **Chengrui Li**, Weihan Li, and Anqi Wu  
 *The Fourteenth International Conference on Learning Representations (ICLR)*, 2026  
-[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]](https://openreview.net/pdf?id=pWX9PUbqPj)  [[arXiv]](https://arxiv.org/abs/2510.02182)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 ## 2025
 [A Revisit of Total Correlation in Disentangled Variational Auto-Encoder with Partial Disentanglement]()  
