@@ -19,7 +19,7 @@ Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi 
 [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](https://icml.cc/virtual/2026/poster/64097)  
 **Chengrui Li**, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, and Anqi Wu  
 *The Forty-third International Conference on Machine Learning (ICML)*, 2026 [**Spotlight: 2.2%**]  
-[[paper]](https://openreview.net/pdf?id=QvIbmX9jBr)  [[arXiv]](https://arxiv.org/abs/2511.13899)  [[code]](https://github.com/JerrySoybean/facrnn)  [[slides]]()  [[video]]()  [[poster]]()
+[[paper]](https://openreview.net/pdf?id=QvIbmX9jBr)  [[arXiv]](https://arxiv.org/abs/2511.13899)  [[code]](https://github.com/JerrySoybean/facrnn)  [[slides]]()  [[video]](https://recorder-v3.slideslive.com/?share=111980&s=0d70e260-82c8-4cf5-9da4-158691c07c3c)  [[poster]]()
 
 [Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion](https://openreview.net/forum?id=pWX9PUbqPj)  
 Yule Wang, Joseph Yu, **Chengrui Li**, Weihan Li, and Anqi Wu  
