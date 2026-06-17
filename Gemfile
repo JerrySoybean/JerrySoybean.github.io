@@ -23,4 +23,8 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+    gem 'ostruct'   # required by jekyll-twitter-plugin on Ruby 3.4+/4.0+
+    gem 'logger'    # required on Ruby 3.4+/4.0+
+    gem 'csv'       # required on Ruby 3.4+/4.0+
+    gem 'observer'  # required by jekyll-scholar on Ruby 3.4+/4.0+
 end
