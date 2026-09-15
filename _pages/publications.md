@@ -10,6 +10,12 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 ## 2026
+
+[Disentangling time-varying neural latent dynamics and circuit-level connectivity with subspace-attention gating]()  
+**Chengrui Li**, Kai Lu, Yen-Shuo Su, Jingyang Ke, Chris Rodgers, Robert C. Liu, and Anqi Wu  
+*Society for Neuroscience (SfN)*, 2026  
+[[abstract]]()  [[poster]]()
+
 [A Hitchhiker's Guide to Poisson Gradient Estimation](https://icml.cc/virtual/2026/poster/63866)  
 Michael Ibrahim<sup>\*</sup>, Hanqi Zhao<sup>\*</sup>, Eli Zachary Sennesh, Zhi Li, **Chengrui Li**<sup>†</sup>, and Hadi Vafaii<sup>†</sup>  
 (<sup>\*</sup>co-first authorship, <sup>†</sup>co-senior authorship)  
