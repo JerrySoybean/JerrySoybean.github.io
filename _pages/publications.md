@@ -11,6 +11,11 @@ nav_order: 1
 
 ## 2026
 
+[Learning When Visual Context Matters for Mouse Behavior Analysis]()  
+Weihan Li, Jingyang Ke, Qinheng Pu, Yule Wang, **Chengrui Li**, and Anqi Wu  
+*The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026  
+[[paper]]()  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
+
 [Disentangling time-varying neural latent dynamics and circuit-level connectivity with subspace-attention gating]()  
 **Chengrui Li**, Kai Lu, Yen-Shuo Su, Jingyang Ke, Chris Rodgers, Robert C. Liu, and Anqi Wu  
 *Society for Neuroscience (SfN)*, 2026  
@@ -40,7 +45,7 @@ Yule Wang, Joseph Yu, **Chengrui Li**, Weihan Li, and Anqi Wu
 
 [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/forum?id=pOAEfqa26i)  
 Weihan Li, Yule Wang, **Chengrui Li**, and Anqi Wu  
-*The Forty-Second International Conference on Machine Learning (ICML)*, 2025 [**Oral: 1.0%**]  
+*The Forty-second International Conference on Machine Learning (ICML)*, 2025 [**Oral: 1.0%**]  
 [[paper]](https://openreview.net/pdf?id=pOAEfqa26i)  [[arXiv]](https://arxiv.org/pdf/2407.00397)  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Feature Reconstruction Guided Fusion Network for Hyperspectral and LiDAR Classification](https://ieeexplore.ieee.org/document/10596098)  
@@ -51,7 +56,7 @@ Zhi Li, Ke Zheng, Lianru Gao, Nannan Zi, and **Chengrui Li**,
 ## 2024
 [Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models]()  
 Yule Wang, **Chengrui Li**, Weihan Li, and Anqi Wu  
-*Advances in Neural Information Processing Systems 36 (NeurIPS)*, 2024  
+*The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3d55170799265c03b37993e02b71b2cc-Abstract-Conference.html)  [[arXiv]]()  [[code]]()  [[slides]]()  [[video]]()  [[poster]]()
 
 [Cross Semantic Heterogeneous Modeling Network for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10596098)  
@@ -92,7 +97,7 @@ Golnaz Forouzandehfar, **Chengrui Li**, Aaron T. Buss, and A. Caglar Tas
 ## 2023
 [Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model](https://neurips.cc/virtual/2023/poster/72520)  
 Yule Wang, Zijing Wu, **Chengrui Li**, and Anqi Wu  
-*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2023 [**Spotlight: 3%**]  
+*The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023 [**Spotlight: 3%**]  
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)  [[arXiv]](https://arxiv.org/abs/2306.06138)  [[code]](https://github.com/alexwangNTL/ERDiff)  [[slides]](https://neurips.cc/media/neurips-2023/Slides/72520.pdf)  [[video]](https://neurips.cc/virtual/2023/poster/72520)  [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72520.png?t=1701561495.0777147)
 
 ## 2020
