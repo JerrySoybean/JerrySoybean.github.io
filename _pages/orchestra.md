@@ -21,6 +21,7 @@ description: Symphony orchestra performances · 交响乐团演出
 
 | English | 中文 |
 | :--- | :--- |
+| **10/30/2026** · [The Planets][naso-2026-10-30] · New Amsterdam Symphony Orchestra<br>- William Walton — [*Viola Concerto*][yt-naso-walton] (Matthew Lipman, viola)<br>- Gustav Holst — [*The Planets*][yt-naso-planets], Op. 32<br>- John Williams — [*E.T. (The Extra-Terrestrial)* — Flying Theme][yt-naso-et] | **2026.10.30** · [行星组曲][naso-2026-10-30] · 新阿姆斯特丹交响乐团<br>- 威廉·沃尔顿 — [《中提琴协奏曲》][yt-naso-walton]（Matthew Lipman，中提琴）<br>- 霍尔斯特 — [《行星组曲》][yt-naso-planets]，Op. 32<br>- 约翰·威廉姆斯 — [《E.T. 外星人》— 飞行主题][yt-naso-et] |
 | [**06/05/2026**][naso-2026-06-05] · New Amsterdam Symphony Orchestra<br>- Ludwig van Beethoven — [*Name Day Overture*][yt-naso-beethoven-nameday], Op. 115<br>- Johannes Brahms — [*Symphony No. 3 in F major*][yt-naso-brahms3], Op. 90<br>- Peri Mauer — [*Musing For The City*][yt-naso-mauer] (commissioned for NASO 50th Anniversary)<br>- Pyotr Ilyich Tchaikovsky — [*Piano Concerto No. 1 in B-flat minor*][yt-naso-tchaikovsky1], Op. 23 (Abram Korsunsky, piano) | [**2026.06.05**][naso-2026-06-05] · 新阿姆斯特丹交响乐团<br>- 贝多芬 — [《命名日序曲》][yt-naso-beethoven-nameday]，Op. 115<br>- 勃拉姆斯 — [《F 大调第三交响曲》][yt-naso-brahms3]，Op. 90<br>- Peri Mauer — [《Musing For The City》][yt-naso-mauer]（NASO 五十周年委约）<br>- 柴可夫斯基 — [《降 b 小调第一钢琴协奏曲》][yt-naso-tchaikovsky1]，Op. 23（Abram Korsunsky，钢琴） |
 | [**02/13/2026**][naso-2026-02-13] · New Amsterdam Symphony Orchestra<br>- Jean Sibelius — [*Finlandia*][yt-naso-finlandia], Op. 26<br>- Sergei Rachmaninoff — [*Piano Concerto No. 2 in C minor*][yt-naso-rachmaninoff2], Op. 18 (William Wolfram, piano)<br>- Antonín Dvořák — [*Symphony No. 7 in D minor*][yt-naso-dvorak7], Op. 70 | [**2026.02.13**][naso-2026-02-13] · 新阿姆斯特丹交响乐团<br>- 西贝柳斯 — [《芬兰颂》][yt-naso-finlandia]，Op. 26<br>- 拉赫玛尼诺夫 — [《c 小调第二钢琴协奏曲》][yt-naso-rachmaninoff2]，Op. 18（William Wolfram，钢琴）<br>- 德沃夏克 — [《d 小调第七交响曲》][yt-naso-dvorak7]，Op. 70 |
 | [**11/22/2025**][nyro-2025-11-22] · New York Repertory Orchestra<br>- Giacomo Puccini — *Capriccio Sinfonico*<br>- Peter Mennin — *Symphony No. 5*<br>- Mieczysław Karłowicz — *Violin Concerto* (Rachel Lee Priday, violin) | [**2025.11.22**][nyro-2025-11-22] · 纽约剧目乐团<br>- 普契尼 — 《交响随想曲》<br>- Peter Mennin — 《第五交响曲》<br>- Mieczysław Karłowicz — 《小提琴协奏曲》（Rachel Lee Priday，小提琴） |
@@ -41,12 +42,16 @@ description: Symphony orchestra performances · 交响乐团演出
 | [**04/17/2026**][naso-2026-04-17] · New Amsterdam Symphony Orchestra<br>- Emilie Mayer — [*Faust Overture*][yt-naso-mayer-faust], Op. 46<br>- Ludwig van Beethoven — [*Piano Concerto No. 2 in B-flat major*][yt-naso-beethoven-pc2], Op. 19 (Jiwon Yang, piano)<br>- Jean Sibelius — [*Symphony No. 5 in E-flat major*][yt-naso-sibelius5], Op. 82 | [**2026.04.17**][naso-2026-04-17] · 新阿姆斯特丹交响乐团<br>- Emilie Mayer — [《浮士德序曲》][yt-naso-mayer-faust]，Op. 46<br>- 贝多芬 — [《降 B 大调第二钢琴协奏曲》][yt-naso-beethoven-pc2]，Op. 19（Jiwon Yang，钢琴）<br>- 西贝柳斯 — [《降 E 大调第五交响曲》][yt-naso-sibelius5]，Op. 82 |
 -->
 
+[naso-2026-10-30]: https://nasorch.org/october-30-2026/
 [naso-2026-06-05]: https://nasorch.org/june-5-2026/
 [naso-2026-04-17]: https://nasorch.org/april-17-2026/
 [naso-2026-02-13]: https://nasorch.org/february-13-2026/
 [naso-2025-11-14]: https://nasorch.org/november-14-2025/
 [nyro-2025-11-22]: https://web.archive.org/web/20250827193432/https://www.nyro.org/
 [riverside-2025-10-10]: https://www.riversideorchestra.org/
+[yt-naso-walton]: https://www.youtube.com/watch?v=U-wUfv_6hwk
+[yt-naso-planets]: https://www.youtube.com/watch?v=Z-hOt6_Luks
+[yt-naso-et]: https://www.youtube.com/watch?v=Qkr3zMMbYFQ
 [yt-naso-tchaikovsky1]: https://www.youtube.com/watch?v=ATxUtvlFTTs
 [yt-naso-mauer]: https://www.youtube.com/watch?v=vuq4vjI81uQ
 [yt-naso-brahms3]: https://www.youtube.com/watch?v=AR0zePTZU7g
